@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 Applied Science University, Bahrain (ID: 20233110089)
 - 💻 JavaScript, C++, C#, Oracle SQL, Cisco Packet Tracer
-- 📍 **Qatif, Eastern Province, Saudi Arabia**
+- 📍  Eastern Province, Saudi Arabia**
 - 🎯 Field Training Summer 2026 (Dammam/Eastern Region)
 
 ## 🛠️ Skills
